@@ -1,0 +1,8 @@
+[package]
+name = "sparse-merkle-tree"
+version = "0.1.0"
+authors = ["armaniferrante <armaniferrante@gmail.com>"]
+
+[dependencies]
+keccak-hash = { git = "https://github.com/paritytech/keccak-hash" }
+ethereum-types = "0.3"
